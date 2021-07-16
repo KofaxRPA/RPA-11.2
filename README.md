@@ -4,7 +4,7 @@
  
 *Kofax RPA 11.1 resource links are available [here](https://github.com/KofaxRPA/RPA-11.1#readme)*.  
 
-Kofax RPA 12.1 was released on July 28, 2021 with the following new features
+Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
 * Automatic Document Generation.
 * SignDoc Integration.
 * French Localization.
