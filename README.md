@@ -15,7 +15,7 @@ Kofax RPA 12.1 was released on July 28, 2021 with the following new features
 
 [Kofax RPA 11.2.0 Documentation online](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.2.0_ea1ydbmwk9/RPA.htm)  
 [Kofax RPA 11.1.0 Release Notes](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)  
-Download Kofax RPA 11.2 at [delivery.kofax.com](https://delivery.kofax.com)   (After July 28)
-Download a free trial license for Kofax RPA **11.2** at [www.kofax.com](https://www.kofax.com/Products/rpa/overview)  (After July 28)
+Download Kofax RPA 11.2 at [delivery.kofax.com](https://delivery.kofax.com)   (After July 28)  
+Download a free trial license for Kofax RPA **11.2** at [www.kofax.com](https://www.kofax.com/Products/rpa/overview)  (After July 28)  
   
 ![image](https://user-images.githubusercontent.com/47416964/125473444-185fa139-e8b0-4916-99fa-9aee4f466fd0.png)
