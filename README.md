@@ -8,7 +8,7 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
 * Automatic Document Generation.
 * [Kofax SignDoc](https://www.kofax.com/products/signdoc) Integration for signing of PDF documents.
 * French Localization.
-* Email Inbox Browsing.
+* Email Inbox Browsing via IMAP or POP3.
 * Peak & Average License Monitoring.
 * Monitoring which websites and Desktop Applications Robots are using.
 * Integration with Microsoft Google and Amazon cloud AI services.
