@@ -10,6 +10,7 @@ Kofax RPA 12.1 was released on July 28, 2021 with the following new features
 * French Localization
 * Email Inbox Browsing
 * Peak & Average License Monitoring
+* Monitoring which websites and Desktop Applications Robots are using.
 * Integration with Microsoft Google and Amazon cloud AI services
 * numerous quality-of-life improvements for Robot Builders.     
 
