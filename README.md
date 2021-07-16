@@ -5,13 +5,13 @@
 *Kofax RPA 11.1 resource links are available [here](https://github.com/KofaxRPA/RPA-11.1#readme)*.  
 
 Kofax RPA 12.1 was released on July 28, 2021 with the following new features
-* Automatic Document Generation
-* SignDoc Integration
-* French Localization
-* Email Inbox Browsing
-* Peak & Average License Monitoring
+* Automatic Document Generation.
+* SignDoc Integration.
+* French Localization.
+* Email Inbox Browsing.
+* Peak & Average License Monitoring.
 * Monitoring which websites and Desktop Applications Robots are using.
-* Integration with Microsoft Google and Amazon cloud AI services
+* Integration with Microsoft Google and Amazon cloud AI services.
 * numerous quality-of-life improvements for Robot Builders.     
 
 [Kofax RPA 11.2.0 Documentation online](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.2.0_ea1ydbmwk9/RPA.htm)  
