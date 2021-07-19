@@ -8,7 +8,7 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
 * Generate [Robot Documentation](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/mgmtconsole/c_robotdocumentation.html#c_robotdocumentation).
 * [Kofax SignDoc](https://www.kofax.com/products/signdoc) Integration for signing of PDF documents.
 * French Localization.
-* Email [Inbox Browsing](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dasmailstep.html?h=email) via IMAP or POP3. Copy/Move/Open/Delete emails.
+* Email [Inbox Browsing](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dasmailstep.html?h=email) via IMAP or POP3. Copy/Move/Get/Delete emails.
 * Peak & Average License Monitoring.
 * Monitoring which websites and Desktop Applications Robots are using.
 * Integration with Microsoft Google and Amazon cloud AI services.
