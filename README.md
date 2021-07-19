@@ -6,8 +6,10 @@
 
 Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
 * Renaming of robots. 
-  * **Robots** were formally called "Desktop Automation Robots" or "workflows" or "RL2 robots".
-  * **Basic Engine Robots** were formally called "Robots" or "Classic Robots" or "RL1 robots".
+  * ![image](https://user-images.githubusercontent.com/47416964/126156358-f0fd60e6-82da-44f0-b23a-487f8c6234aa.png)
+**Robots** were formally called "Desktop Automation Robots" or "workflows" or "RL2 robots".
+  * ![image](https://user-images.githubusercontent.com/47416964/126156337-8c85f723-d5c9-4cff-9c4e-4fc6ee2d67c7.png)
+**Basic Engine Robots** were formally called "Robots" or "Classic Robots" or "RL1 robots".
 * Generate [Robot Documentation](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/mgmtconsole/c_robotdocumentation.html#c_robotdocumentation).
 * [Kofax SignDoc](https://www.kofax.com/products/signdoc) Integration for signing of PDF documents.
 * French Localization.
