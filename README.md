@@ -14,7 +14,7 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following [new feature
 ![image](https://user-images.githubusercontent.com/47416964/126157397-be991571-3584-446f-857d-b921e80f9a61.png)
 
 * [Kofax SignDoc](https://www.kofax.com/products/signdoc) Integration for [signing of PDF documents](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dassigndoc.html).
-* French Localization or Software and [Documentation](https://docshield.kofax.com/RPA/fr_FR/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/c_welcomegeneral.html).
+* French Localization of Software and [Documentation](https://docshield.kofax.com/RPA/fr_FR/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/c_welcomegeneral.html).
 * Email [Inbox Browsing](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dasmailstep.html) via IMAP or POP3. Copy/Move/Get/Delete emails.
 * Monitoring [Peak & Average License Usage](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) (It supports both the current CRU & the legacy KCU license models).
 * Monitoring which [Websites and Desktop Applications](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) Robots are using.
