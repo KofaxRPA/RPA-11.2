@@ -5,7 +5,7 @@
 *Kofax RPA 11.1 resource links are available [here](https://github.com/KofaxRPA/RPA-11.1#readme)*.  
 
 Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
-* Renaming of robots. 
+* "Desktop Robots" are now "Robots".
   * ![image](https://user-images.githubusercontent.com/47416964/126156358-f0fd60e6-82da-44f0-b23a-487f8c6234aa.png)
 **Robots** were formally called "Desktop Automation Robots" or "workflows" or "RL2 robots".
   * ![image](https://user-images.githubusercontent.com/47416964/126156337-8c85f723-d5c9-4cff-9c4e-4fc6ee2d67c7.png)
