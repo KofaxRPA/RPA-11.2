@@ -26,7 +26,15 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
   * Show robots, snippets and types that a robot is dependent on.  
 ![image](https://user-images.githubusercontent.com/47416964/126157181-21a8d981-310e-4d80-9872-d9d3031c0c97.png)
   * Edit multiple robots at the same time while another robot is running in the debugger.
-  * Image Finders now have fuzzy matching sliderrs
+  * Image Finders now have fuzzy matching sliders
+  * Micosoft Edge, Google Chrome and Firefox on a Windows Desktop can now be used in Robots.
+  * Inject Javascript into Microsoft Internet Explorer on a Windows Desktop.
+  * Chromium (Embedded Browser) now has creat page step, open in new window.
+  * Device Mappings as parameters.
+  * Users can create schedules for Kapplets, and legacy schedules can be restored.
+  * Kapplets now use the robot queue to start robots.
+  * Document Transformation Thin Client Validation uses the robot queue for callback after documents have been validated.
+  * Additional component actions (including convert range to table and search) for [Built-in Excel](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_builtinexcel.html)
 
 [Kofax RPA 11.2.0 Documentation online](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.2.0_ea1ydbmwk9/RPA.htm)  
 [Kofax RPA 11.1.0 Release Notes](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)  
