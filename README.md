@@ -5,6 +5,9 @@
 *Kofax RPA 11.1 resource links are available [here](https://github.com/KofaxRPA/RPA-11.1#readme)*.  
 
 Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
+* Renaming of robots. 
+  * **Robots** were formally called "Desktop Automation Robots" or "workflows" or "RL2 robots".
+  * **Basic Engine Robots** were formally called "Robots" or "Classic Robots" or "RL1 robots".
 * Generate [Robot Documentation](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/mgmtconsole/c_robotdocumentation.html#c_robotdocumentation).
 * [Kofax SignDoc](https://www.kofax.com/products/signdoc) Integration for signing of PDF documents.
 * French Localization.
@@ -12,7 +15,8 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
 * Monitoring [Peak & Average License Usage](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) (It supports both the current CRU & the legacy KCU license models).
 * Monitoring which [Websites and Desktop Applications](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) Robots are using.
 * [Analyze Images and Text]((https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_cloudai.html) services.) with Microsoft,  Google and Amazon Cloud services.  
-* numerous quality-of-life improvements for Robot Builders.     
+* Quality-of-life improvements for Robot Builders.  
+  * Search for text/labels/variables in Robots and Basic Engine Robots
 
 [Kofax RPA 11.2.0 Documentation online](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.2.0_ea1ydbmwk9/RPA.htm)  
 [Kofax RPA 11.1.0 Release Notes](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)  
