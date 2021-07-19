@@ -15,7 +15,7 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
 
 * [Kofax SignDoc](https://www.kofax.com/products/signdoc) Integration for [signing of PDF documents](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dassigndoc.html).
 * French Localization or Software and [Documentation](https://docshield.kofax.com/RPA/fr_FR/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/c_welcomegeneral.html).
-* Email [Inbox Browsing](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dasmailstep.html?h=email) via IMAP or POP3. Copy/Move/Get/Delete emails.
+* Email [Inbox Browsing](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dasmailstep.html) via IMAP or POP3. Copy/Move/Get/Delete emails.
 * Monitoring [Peak & Average License Usage](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) (It supports both the current CRU & the legacy KCU license models).
 * Monitoring which [Websites and Desktop Applications](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) Robots are using.
 * [Analyze Images and Text]((https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_cloudai.html) services.) with Microsoft,  Google and Amazon Cloud services.  
