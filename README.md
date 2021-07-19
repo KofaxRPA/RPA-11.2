@@ -18,7 +18,7 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
 * Email [Inbox Browsing](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dasmailstep.html) via IMAP or POP3. Copy/Move/Get/Delete emails.
 * Monitoring [Peak & Average License Usage](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) (It supports both the current CRU & the legacy KCU license models).
 * Monitoring which [Websites and Desktop Applications](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) Robots are using.
-* [Analyze Images and Text]((https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_cloudai.html) services.) with Microsoft,  Google and Amazon Cloud services.  
+* [Analyze Images and Text](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_cloudai.html) services.) with Microsoft,  Google and Amazon Cloud services.  
 * Quality-of-life improvements for Robot Builders.  
   * Search for text/labels/variables in Robots and Basic Engine Robots.  
 ![image](https://user-images.githubusercontent.com/47416964/126157249-a6538512-6ff1-45e8-838d-4a03543240ff.png)  
