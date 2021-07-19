@@ -10,15 +10,23 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following new features
 **Robots** were formally called "Desktop Automation Robots" or "workflows" or "RL2 robots".
   * ![image](https://user-images.githubusercontent.com/47416964/126156337-8c85f723-d5c9-4cff-9c4e-4fc6ee2d67c7.png)
 **Basic Engine Robots** were formally called "Robots" or "Classic Robots" or "RL1 robots".
-* Generate [Robot Documentation](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/mgmtconsole/c_robotdocumentation.html#c_robotdocumentation).
-* [Kofax SignDoc](https://www.kofax.com/products/signdoc) Integration for signing of PDF documents.
+* Generate [Robot Documentation](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/mgmtconsole/c_robotdocumentation.html#c_robotdocumentation).  
+![image](https://user-images.githubusercontent.com/47416964/126157397-be991571-3584-446f-857d-b921e80f9a61.png)
+
+* [Kofax SignDoc](https://www.kofax.com/products/signdoc) Integration for [signing of PDF documents](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dassigndoc.html).
 * French Localization.
 * Email [Inbox Browsing](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_dasmailstep.html?h=email) via IMAP or POP3. Copy/Move/Get/Delete emails.
 * Monitoring [Peak & Average License Usage](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) (It supports both the current CRU & the legacy KCU license models).
 * Monitoring which [Websites and Desktop Applications](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/kafrpa/c_kafkviews.html#concept_views_usage) Robots are using.
 * [Analyze Images and Text]((https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_help/kap_help/designstudio/c_cloudai.html) services.) with Microsoft,  Google and Amazon Cloud services.  
 * Quality-of-life improvements for Robot Builders.  
-  * Search for text/labels/variables in Robots and Basic Engine Robots
+  * Search for text/labels/variables in Robots and Basic Engine Robots.  
+![image](https://user-images.githubusercontent.com/47416964/126157249-a6538512-6ff1-45e8-838d-4a03543240ff.png)  
+![image](https://user-images.githubusercontent.com/47416964/126157280-570f5402-de7d-41ee-a789-e739f6f250cd.png)
+  * Show robots, snippets and types that a robot is dependent on.  
+![image](https://user-images.githubusercontent.com/47416964/126157181-21a8d981-310e-4d80-9872-d9d3031c0c97.png)
+  * Edit multiple robots at the same time while another robot is running in the debugger.
+  * Image Finders now have fuzzy matching sliderrs
 
 [Kofax RPA 11.2.0 Documentation online](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.2.0_ea1ydbmwk9/RPA.htm)  
 [Kofax RPA 11.1.0 Release Notes](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)  
