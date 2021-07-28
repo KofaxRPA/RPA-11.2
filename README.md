@@ -4,7 +4,7 @@
  
 *Kofax RPA 11.1 resource links are available [here](https://github.com/KofaxRPA/RPA-11.1#readme)*.  
 
-Kofax RPA 12.1 will be released on July 28, 2021 with the following [new features](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)  
+Kofax RPA 12.1 was released on July 28, 2021 with the following [new features](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_rn/rpa_releasenotes/c_newfeatures.html)  
 * "Desktop Robots" are now "Robots".
   * ![image](https://user-images.githubusercontent.com/47416964/126156358-f0fd60e6-82da-44f0-b23a-487f8c6234aa.png)
 **Robots** were formally called "Desktop Automation Robots" or "workflows" or "RL2 robots".
@@ -39,8 +39,8 @@ Kofax RPA 12.1 will be released on July 28, 2021 with the following [new feature
 [Kofax RPA 11.2.0 Documentation online](https://docshield.kofax.com/Portal/Products/en_US/RPA/11.2.0_ea1ydbmwk9/RPA.htm)  
 [Kofax RPA 11.2.0 Release Notes](https://docshield.kofax.com/RPA/en_US/11.2.0_ea1ydbmwk9/help/rpa_rn/rpa_releasenotes/c_aboutthisrelease.html)  
 [Kofax PRA 11.2 Release Announcement](https://knowledge.kofax.com/Robotic_Process_Automation/Overview-Downloads/RPA_Product_Release_Information#Latest_11.2_Releases) on https://knowledge.kofax.com  
-Download Kofax RPA 11.2 from [delivery.kofax.com](https://delivery.kofax.com)   (After July 28)  
-Download a free trial license for Kofax RPA **11.2** from [www.kofax.com](https://www.kofax.com/Products/rpa/overview)  (After July 28)  
+Download Kofax RPA 11.2 from [delivery.kofax.com](https://delivery.kofax.com)  
+Download a free trial license for Kofax RPA **11.2** from [www.kofax.com](https://www.kofax.com/Products/rpa/overview)  
 
 Ask your questions about Kofax RPA at [community.kofax.com](https://community.kofax.com/)  
 Find support answers about Kofax RPA at [knowledge.kofax.com](https://knowledge.kofax.com/Robotic_Process_Automation)  
