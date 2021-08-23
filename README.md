@@ -1,6 +1,7 @@
 # Kofax RPA 11.2 Getting Started Guide
 
 [Playback link](https://event.on24.com/wcc/r/3318568/3A3A47AB1937E08939DA181B20962FB8/2711588) for **RPA 11.2 Launch** on Wednesday 28 July 2021.  
+[Partner Presentation](20212807%20Kofax%20RPA%2011.2%20Sales%20and%20Partner%20Enablement.pptx)  
  
 *Kofax RPA 11.1 resource links are available [here](https://github.com/KofaxRPA/RPA-11.1#readme)*.  
 
